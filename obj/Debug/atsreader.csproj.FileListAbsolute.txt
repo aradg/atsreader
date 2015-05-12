@@ -1,0 +1,5 @@
+E:\tasks\20150511 RSM ATS check\reader\atsreader\bin\Debug\atsreader.exe
+E:\tasks\20150511 RSM ATS check\reader\atsreader\bin\Debug\atsreader.pdb
+E:\tasks\20150511 RSM ATS check\reader\atsreader\obj\Debug\atsreader.csprojResolveAssemblyReference.cache
+E:\tasks\20150511 RSM ATS check\reader\atsreader\obj\Debug\atsreader.exe
+E:\tasks\20150511 RSM ATS check\reader\atsreader\obj\Debug\atsreader.pdb
